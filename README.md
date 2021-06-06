@@ -1,3 +1,7 @@
+#Output
+![screencapture-localhost-4200-2021-06-06-16_09_20 (1)](https://user-images.githubusercontent.com/81008413/120921524-b9147900-c6e1-11eb-8bad-d114eba19b61.png)
+
+
 # ComponentProj
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
