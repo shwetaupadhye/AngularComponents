@@ -1,0 +1,10 @@
+.container {
+    border-radius: 5px;
+    background-color: #8cceec;
+    padding: 20px;
+}
+h1{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+}
